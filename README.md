@@ -15,8 +15,8 @@ Currently i'm studying Computer Engineering .
 </div>   
 
 <div>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=pbcz1k4M&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbcz1k4M&layout=compact"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=pbcz1k4&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbcz1k4&layout=compact"/>
 </div>
   <div style="display: inline_block">
     <img align="middle" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />

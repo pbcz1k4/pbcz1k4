@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Pedro.👋
 
-### Siba mais sobre mim ⬇️⬇️
+### Saiba mais sobre mim ⬇️⬇️
 https://pbcz1k4.github.io/sitePedro/
 
 Currently i'm studying Computer Engineering .

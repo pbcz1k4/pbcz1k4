@@ -10,6 +10,7 @@ Currently i'm studying Computer Engineering .
 - React
 - JavaScrpit
 - C
+- Java
 <div>
   <p>
     :mailbox: Como entrar em contato: pedroborgespedro176@gmail.com
